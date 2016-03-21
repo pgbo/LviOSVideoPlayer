@@ -1,0 +1,4 @@
+platform :ios, '7.0'
+
+pod 'LvModelWindow', '~> 0.1.1'
+pod 'LvNormalSlider', :git => 'https://github.com/pgbo/LvNormalSlider.git'
